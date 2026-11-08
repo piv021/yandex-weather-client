@@ -12,7 +12,7 @@ public class WeatherApp {
     // Защищенный и бесплатный HTTPS-сервис геолокации по IP
     private static final String GEO_API_URL = "https://ipwho.is/?lang=ru";
 
-    // Вставьте ваш активный ключ из кабинета https://yandex.ru/pogoda/b2b/console/home
+    // Вставьте ваш активный ключ из кабинета https://yandex.ru/pogoda/b2b/console/home если ключь истек
     private static final String API_KEY = "89e75ce5-c180-4ca4-b359-c3be744fb71c";
 
     private static final double DEFAULT_LAT = 55.75;
